@@ -1,6 +1,6 @@
 # MarkdownHW
 
-I ~~will~~ be ---remaking--- the ---challenge--- module---page ---from--- canvas
+`I will be remaking the challenge modulepage from canvas`
 
 Challenge: Markdown Pages on GitHub
 ===================================
@@ -36,4 +36,5 @@ variety of its features Links to an external site..`
 4. ~~With regard to size and scope, you should do enough for you to feel you understand 
 markdown and can demonstrate that in the content you create.~~
 
+here is a [LINK](2ndPage.md) you can press
 
