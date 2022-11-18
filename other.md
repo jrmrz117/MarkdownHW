@@ -1,0 +1,7 @@
+`Hate`
+
+
+
+
+
+[huh](SCHOOL.md)

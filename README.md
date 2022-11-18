@@ -37,4 +37,3 @@ variety of its features Links to an external site..`
 markdown and can demonstrate that in the content you create.~~
 
 here is a [LINK](2ndPage.md) you can press
-

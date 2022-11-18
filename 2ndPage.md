@@ -5,5 +5,6 @@ Yes this is another page
 3. im feeling burnt out of school
 4. Time is what stresses me out because its the one thing you cant get back 
 
+[Back](README.md)
 
-
+or you could go further on my opinion of school.[This Page](Thispage.md)
