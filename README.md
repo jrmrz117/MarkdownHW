@@ -1,6 +1,6 @@
 # MarkdownHW
 
-I---will---be---remaking---the---challenge---module---page---from---canvas
+I ~~will~~ be ---remaking--- the ---challenge--- module---page ---from--- canvas
 
 Challenge: Markdown Pages on GitHub
 ===================================
