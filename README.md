@@ -1,21 +1,27 @@
 # IT 1600 Final Project
 
-`I will be remaking the challenge modulepage from canvas`
-
-Challenge: Markdown Pages on GitHub
+Markdown Tutorial
 ===================================
 
 Description: 
 ------------
-Create multiple linked markdown pages that are hosted on GitHub and presents some 
-information that interests you and contains a variety of markdown features. The 
-first markdown page in the repository is to be README.md, which serves as the home 
-page for repo.
+I will be going through the basic and extended syntax and functions of each symbol and how they interact with the text we will see on the screen.
 
 Purpose: 
 --------
-This project provides experience working with markdown, Git/GitHub, and digital 
-concepts.
+You will be able to make basic markdown pages and this will give you skills to make your own README in your github repositories.
+
+##LINKS
+Here is a the page for [basic syntax](2ndPage.md) you can take a look at
+## BASIC SYNTAX
+
+| **Heading** | # Heading 1 
+|             | ## Heading 2
+|             | ### Heading 3
+
+
+
+
 
 Requirements:
 -------------
@@ -36,4 +42,4 @@ variety of its features Links to an external site..`
 4. ~~With regard to size and scope, you should do enough for you to feel you understand 
 markdown and can demonstrate that in the content you create.~~
 
-here is a [LINK](2ndPage.md) you can press
+
