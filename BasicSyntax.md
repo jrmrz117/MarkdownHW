@@ -68,6 +68,12 @@ If you would like to create an unordered list then you put a dash instead of a n
 - second
 - third
 
+9. **Strike Through**
+
+This function does not really have a useful function other than marking out a text of your choice. You can do this by using the double tildes ~~ on both sides like bold and italics.
+
+~~NOT OKAY TO SEE~~
+
 ## End
 
 This is the end of the basic syntax of markdown.
