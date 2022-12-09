@@ -17,11 +17,7 @@ Here is a the page for [basic syntax](BasicSyntax.md) you can take a look at
 If you are looking for something more advanced then take a look here at the [advanced syntax](BasicSyntax.md)
 ## BASIC SYNTAX
 
-|-------------|---------------|
-| **Heading** | # Heading 1   |
-|             | ## Heading 2  |
-|             | ### Heading 3 |
-|-------------|---------------|
+
 
 
 
