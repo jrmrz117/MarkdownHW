@@ -1,3 +1,0 @@
-# I
-
-[NEXT](NEXT.md)
