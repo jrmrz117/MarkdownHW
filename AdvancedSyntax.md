@@ -16,7 +16,7 @@ When writing markdown if you were to create a code tutorial, it would be useful 
 You can create links using whichever website you want or in my opinion more interesting is creating links between your markdown pages. Creating links between your markdown pages can make things a lot easier to categorize what you are sharing. Just like this markdown doc. 
 First, the format will need brackets[] for the name of the link you choose and parentheses() for the website url. The way to link markdown pages is to directly link it in the parentheses. Like if you had a another markdown as secondpage.md the secondpage.md would go inside the parentheses. You could then link your README to your second page as a basic back button.
 
-dont click this, the page doesnt exist[second page](secondpage.md)
+dont click this, the page doesnt exist [second page](secondpage.md)
 
 ## Image
 
