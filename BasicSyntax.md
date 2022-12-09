@@ -46,13 +46,31 @@ We can use the triple asterisk *** or triple ___ underscores to bold and italici
 
 ___Italics___
 
+6. **Block Quote**
 
+Use the > greater than sign to make something a blockquote.
 
+> Block quote
 
+7. **Ordered List**
 
+If you would like to make an ordered list/ numbered list then you just put a number followed by a period with a space before whatever you want in the list.
 
+1. first
+2. second
+3. third
 
+8. **Unordered list**
 
-[HOME](README.md)
+If you would like to create an unordered list then you put a dash instead of a number followed by a space. This will make a list with only dashes.
 
-Or you could go further with the [advanced syntax](AdvancedSyntax.md)
+- first
+- second
+- third
+
+## End
+
+This is the end of the basic syntax of markdown.
+You could go further with the [advanced syntax](AdvancedSyntax.md)
+
+Or just go [HOME](README.md)
