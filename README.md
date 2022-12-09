@@ -1,4 +1,4 @@
-# MarkdownHW
+# IT 1600 Final Project
 
 `I will be remaking the challenge modulepage from canvas`
 
