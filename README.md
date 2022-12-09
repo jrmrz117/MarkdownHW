@@ -11,7 +11,7 @@ Purpose:
 --------
 You will be able to make basic markdown pages and this will give you skills to make your own README in your github repositories.
 
-##LINKS
+## LINKS
 Here is a the page for [basic syntax](2ndPage.md) you can take a look at
 ## BASIC SYNTAX
 
